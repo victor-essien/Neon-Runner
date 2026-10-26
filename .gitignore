@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+highscore.json
+neon_runner.log
+.pytest_cache/

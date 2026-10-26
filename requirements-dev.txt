@@ -1,0 +1,2 @@
+# optional, only for running tests
+pytest>=7
